@@ -7,9 +7,18 @@ var str = "Hello, playground"
 var myFirstVariable = "I've created my first variable"
 
 //Declare and assign variable in single line of code
-var mySecondVariable = "and look I added two strings together"
+var mySecondVariable = " and look I added two strings together"
 
 var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+var myFourthVariable = "This is to "
+
+var myFifthVariable = "go even "
+
+var mySixthVariable = "further beyond"
+
+var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
+
+print(mySeventhVariable)
