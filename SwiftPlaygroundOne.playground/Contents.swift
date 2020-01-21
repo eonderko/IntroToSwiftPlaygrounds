@@ -22,3 +22,5 @@ var mySixthVariable = "further beyond"
 var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
 
 print(mySeventhVariable)
+
+//all done
