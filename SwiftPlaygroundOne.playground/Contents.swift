@@ -23,4 +23,10 @@ var mySeventhVariable = myFourthVariable + myFifthVariable + mySixthVariable
 
 print(mySeventhVariable)
 
-//all done
+// Assignment #2 Introduction to True and False
+
+var appState = false
+
+print(appState)
+
+
