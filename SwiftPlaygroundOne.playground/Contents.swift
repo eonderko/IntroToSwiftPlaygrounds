@@ -29,4 +29,17 @@ var appState = false
 
 print(appState)
 
+var numberOne = 5
+
+var numberTwo = 7
+
+var comparison = numberOne < numberTwo
+
+var numbaOne = "1"
+
+var numbaTwo = "1"
+
+var whatevas = (numbaOne == numbaTwo)
+
+
 
